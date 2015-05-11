@@ -97,9 +97,9 @@ http://github.com/
 
 イメージの書き方
 ----------------
-    ![Unicorn](https://github.com/s5k6s842/01_NumHit.git/images.jpg)
+    ![Unicorn](https://github.com/s5k6s842/01_NumHit/blob/master/images.jpg)
 
-![Unicorn](https://github.com/s5k6s842/01_NumHit.git/images.jpg)
+![Unicorn](https://github.com/s5k6s842/01_NumHit/blob/master/images.jpg)
 
     ![代替テキスト](http://github.com/unicorn.png "画像タイトル")
 
