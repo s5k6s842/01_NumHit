@@ -101,6 +101,6 @@ http://github.com/
 
 ![Unicorn](https://github.com/s5k6s842/01_NumHit/blob/master/images.jpg)
 
-    ![代替テキスト](http://github.com/unicorn.png "画像タイトル")
+    ![代替テキスト](https://github.com/s5k6s842/01_NumHit/blob/master/google-Chrome-2ch.png "画像タイトル")
 
-![代替テキスト](http://github.com/unicorn.png "画像タイトル")
+![代替テキスト](https://github.com/s5k6s842/01_NumHit/blob/master/google-Chrome-2ch.png "画像タイトル")
